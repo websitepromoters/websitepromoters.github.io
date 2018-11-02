@@ -1,3 +1,6 @@
+This is my first attempt at using Github Pages. Website Promoters is the name of my company.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/websitepromoters/websitepromoters.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,6 +28,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+For more details see our website at [Website Promoters](https://seo-company-new-york).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
