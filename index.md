@@ -29,7 +29,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see our website at [Website Promoters](https://seo-company-new-york).
+For more details see our website at [Website Promoters](https://seo-company-new-york.com).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
